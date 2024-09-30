@@ -1,0 +1,15 @@
+C:\Users\luise\OneDrive - UNIVERSIDAD NACIONAL AUTÓNOMA DE MÉXICO\Documentos\Programming\C#\TicTacToe\TicTacToe\bin\Debug\TicTacToe.exe.config
+C:\Users\luise\OneDrive - UNIVERSIDAD NACIONAL AUTÓNOMA DE MÉXICO\Documentos\Programming\C#\TicTacToe\TicTacToe\bin\Debug\TicTacToe.exe
+C:\Users\luise\OneDrive - UNIVERSIDAD NACIONAL AUTÓNOMA DE MÉXICO\Documentos\Programming\C#\TicTacToe\TicTacToe\bin\Debug\TicTacToe.pdb
+C:\Users\luise\OneDrive - UNIVERSIDAD NACIONAL AUTÓNOMA DE MÉXICO\Documentos\Programming\C#\TicTacToe\TicTacToe\obj\Debug\TicTacToe.csproj.AssemblyReference.cache
+C:\Users\luise\OneDrive - UNIVERSIDAD NACIONAL AUTÓNOMA DE MÉXICO\Documentos\Programming\C#\TicTacToe\TicTacToe\obj\Debug\TicTacToe.csproj.SuggestedBindingRedirects.cache
+C:\Users\luise\OneDrive - UNIVERSIDAD NACIONAL AUTÓNOMA DE MÉXICO\Documentos\Programming\C#\TicTacToe\TicTacToe\obj\Debug\TicTacToe.csproj.CoreCompileInputs.cache
+C:\Users\luise\OneDrive - UNIVERSIDAD NACIONAL AUTÓNOMA DE MÉXICO\Documentos\Programming\C#\TicTacToe\TicTacToe\obj\Debug\TicTacToe.exe
+C:\Users\luise\OneDrive - UNIVERSIDAD NACIONAL AUTÓNOMA DE MÉXICO\Documentos\Programming\C#\TicTacToe\TicTacToe\obj\Debug\TicTacToe.pdb
+C:\Users\luise\OneDrive - UNIVERSIDAD NACIONAL AUTÓNOMA DE MÉXICO\Documentos\Programming\Curso_C#\TicTacToe\TicTacToe\bin\Debug\TicTacToe.exe.config
+C:\Users\luise\OneDrive - UNIVERSIDAD NACIONAL AUTÓNOMA DE MÉXICO\Documentos\Programming\Curso_C#\TicTacToe\TicTacToe\bin\Debug\TicTacToe.exe
+C:\Users\luise\OneDrive - UNIVERSIDAD NACIONAL AUTÓNOMA DE MÉXICO\Documentos\Programming\Curso_C#\TicTacToe\TicTacToe\bin\Debug\TicTacToe.pdb
+C:\Users\luise\OneDrive - UNIVERSIDAD NACIONAL AUTÓNOMA DE MÉXICO\Documentos\Programming\Curso_C#\TicTacToe\TicTacToe\obj\Debug\TicTacToe.csproj.AssemblyReference.cache
+C:\Users\luise\OneDrive - UNIVERSIDAD NACIONAL AUTÓNOMA DE MÉXICO\Documentos\Programming\Curso_C#\TicTacToe\TicTacToe\obj\Debug\TicTacToe.csproj.CoreCompileInputs.cache
+C:\Users\luise\OneDrive - UNIVERSIDAD NACIONAL AUTÓNOMA DE MÉXICO\Documentos\Programming\Curso_C#\TicTacToe\TicTacToe\obj\Debug\TicTacToe.exe
+C:\Users\luise\OneDrive - UNIVERSIDAD NACIONAL AUTÓNOMA DE MÉXICO\Documentos\Programming\Curso_C#\TicTacToe\TicTacToe\obj\Debug\TicTacToe.pdb
